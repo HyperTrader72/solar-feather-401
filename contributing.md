@@ -119,4 +119,4 @@ Windows 10/11 или macOS с 4 ГБ ОЗУ — смотрите таблицу 
 - 💡 **Suggest** ideas with the `enhancement` label
 - 📣 **Share** it with someone who needs it
 
-*solar-feather-401 · Обновлено 2026-10-08 · Материал предоставляется по лицензии MIT*
+*solar-feather-401 · Обновлено 2026-10-09 · Материал предоставляется по лицензии MIT*
